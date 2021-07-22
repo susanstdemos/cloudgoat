@@ -1,4 +1,4 @@
-FROM python:3.8.0b2-alpine3.10
+FROM python:alpine3.10
 
 LABEL maintainer="Rhino Assessment Team <cloudgoat@rhinosecuritylabs.com>"
 LABEL cloudgoat.version="2.0.0"
